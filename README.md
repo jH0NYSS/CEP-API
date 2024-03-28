@@ -26,5 +26,5 @@ Este projeto foi desenvolvido com o objetivo de ajudar uma amiga na faculdade a 
 Contribuições são sempre bem-vindas! Se você encontrou algum problema, tem alguma sugestão de melhoria ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 
-> [!TIP]
-> vai estudar Ana maria.
+> [!CAUTION]
+> Ultilize apenas numeros no CEP
