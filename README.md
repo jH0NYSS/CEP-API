@@ -27,4 +27,4 @@ Contribuições são sempre bem-vindas! Se você encontrou algum problema, tem a
 
 
 > [!CAUTION]
-> Ultilize apenas numeros no CEP
+> Utilizar apenas números no CEP
